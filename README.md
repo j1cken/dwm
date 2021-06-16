@@ -1,5 +1,5 @@
 # dwm
 ```
-rm config.h && make
+make clean && make
 sudo make install
 ```
